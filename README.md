@@ -1,2 +1,2 @@
-# Flavoureka
-The world's most diverse food menu. 
+# Networth
+Addressing the need for young people's personal finance education. 
